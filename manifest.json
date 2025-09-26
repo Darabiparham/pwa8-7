@@ -1,0 +1,77 @@
+{
+  "name": "DACO Storymaker",
+  "short_name": "DACO",
+  "description": "Create beautiful text overlays on your images with Persian and English support",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff3e3",
+  "theme_color": "#ff6e41",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "lang": "fa",
+  "dir": "rtl",
+  "categories": ["photo", "graphics", "utilities"],
+  "icons": [
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=72&h=72",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=96&h=96",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=128&h=128",
+      "sizes": "128x128",
+      "type": "image/png",
+      "density": "2.5"
+    },
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=144&h=144",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=152&h=152",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=192&h=192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=384&h=384",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pfst.cf2.poecdn.net/base/image/9364acf5be21b0eee6147030618bf2683bcb6c9d5f8c0b333df2670ff59a892f?w=512&h=512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Create New Story", 
+      "short_name": "New Story",
+      "description": "Start creating a new text overlay",
+      "url": "./",
+      "icons": [
+        {
+          "src": "https://pfst.cf2.poecdn.net/base/image/584b1f97443de4a79a668af16d771e0e2dcc42ee0bedde6ef383e898e665fe0b?w=96&h=96",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
+}
